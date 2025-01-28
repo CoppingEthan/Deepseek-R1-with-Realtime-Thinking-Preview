@@ -1,8 +1,6 @@
 # Deepseek R1 Manifold Pipe with Real-Time Thinking
 
-**Adapted code from MCode-Team to add realtime preview of the thinking process for Deepseek R1 and Deepseek Chat.**
-
-I would like to thank the original author, MCode-Team, for sharing this code. This project builds upon their work and I hope it serves as a helpful modification.
+**Realtime preview of the thinking process for Deepseek R1 and Deepseek Chat support.**
 
 ```
 """
