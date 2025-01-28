@@ -10,14 +10,18 @@ title: Deepseek R1 Manifold Pipe with Real-Time Thinking
 authors: [MCode-Team, Ethan Copping]
 author_url: [https://github.com/MCode-Team, https://github.com/CoppingEthan]
 funding_url: https://github.com/open-webui
-version: 0.1.4
+version: 0.2.0
 required_open_webui_version: 0.5.0
 license: MIT
 environment_variables:
 - DEEPSEEK_API_KEY (required)
 
+# Notices
+Deepseeks API continues to be unresponsive to many users for R1. Hopefully this clears up soon.
+Function continues to work for Chat and Reasoner should work again soon.
+
 # Acknowledgments
-I would like to thank the original author, MCode-Team, for sharing this code. This project builds upon their work and I hope it serves as a helpful modification.
+Thanks to MCode-Team, for sharing this code. This project builds upon their work and I hope it serves as a helpful modification.
 """
 
 import os
